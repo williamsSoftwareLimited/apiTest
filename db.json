@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "todos": [
     { "id": 1, "title": "animal", "completed":false },
     { "id": 2, "title": "biddleboodle", "completed":true },
     { "id": 3, "title": "flaminghorsey", "completed":false }
