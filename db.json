@@ -11,7 +11,7 @@
     { "id": 9, "title": "whencetheycame", "completed":false },
     { "id": 10, "title": "duckyaround", "completed":false },
     { "id": 11, "title": "ohhhhnooooo", "completed":true },
-    { "id": 12, "title": "atlast!", "completed":false },
+    { "id": 12, "title": "atlast", "completed":false },
   ],
 "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
