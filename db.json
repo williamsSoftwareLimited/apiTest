@@ -20,4 +20,42 @@
   "profile": {
     "name": "facefull"
   }
+  "partners": [{
+      "name": "gordonthegofer",
+      "county": "Spain",
+      "dates" : ["2019-02-23", "2019-02-24"]
+    },{
+      "name": "conquistodor",
+      "county": "Spain",
+      "dates" : ["2019-02-24", "2019-02-26"]
+    },{
+      "name": "brain",
+      "county": "Spain",
+      "dates" : ["2019-02-24"]
+    },{
+      "name": "pinky",
+      "county": "Wales",
+      "dates" : ["2019-02-28", "2019-03-02"]
+    },{
+      "name": "applecore",
+      "county": "Ireland",
+      "dates" : ["2019-02-24", "2019-02-19"]
+    },{
+      "name": "brainthesnail",
+      "county": "Ireland",
+      "dates" : ["2019-02-25", "2019-02-24"]
+    },{
+      "name": "fred",
+      "county": "Iran",
+      "dates" : ["2019-02-02", "2019-02-24"]
+    },{
+      "name": "nohands",
+      "county": "Iran",
+      "dates" : ["2019-02-23", "2019-02-24", "2019-03-02"]
+    },{
+      "name": "sweden,
+      "county": "Sweden",
+      "dates" : [ "2019-02-25"]
+    }
+  ]
 }
