@@ -22,39 +22,39 @@
   },
   "partners": [{
       "name": "gordonthegofer",
-      "county": "Spain",
+      "country": "Spain",
       "dates" : ["2019-02-23", "2019-02-24"]
     },{
       "name": "conquistodor",
-      "county": "Spain",
+      "country": "Spain",
       "dates" : ["2019-02-24", "2019-02-26"]
     },{
       "name": "brain",
-      "county": "Spain",
+      "country": "Spain",
       "dates" : ["2019-02-24"]
     },{
       "name": "pinky",
-      "county": "Wales",
+      "country": "Wales",
       "dates" : ["2019-02-28", "2019-03-02"]
     },{
       "name": "applecore",
-      "county": "Ireland",
+      "country": "Ireland",
       "dates" : ["2019-02-24", "2019-02-19"]
     },{
       "name": "brainthesnail",
-      "county": "Ireland",
+      "country": "Ireland",
       "dates" : ["2019-02-25", "2019-02-24"]
     },{
       "name": "fred",
-      "county": "Iran",
+      "country": "Iran",
       "dates" : ["2019-02-02", "2019-02-24"]
     },{
       "name": "nohands",
-      "county": "Iran",
+      "country": "Iran",
       "dates" : ["2019-02-23", "2019-02-24", "2019-03-02"]
     },{
       "name": "sweden",
-      "county": "Sweden",
+      "country": "Sweden",
       "dates" : [ "2019-02-25"]
     }
   ]
